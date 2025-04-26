@@ -21,6 +21,7 @@ li {
   display: inline-block;
   list-style-type: none;
   margin: o 12px;
+  gap: 10px;
 }
 .hero {
   background-image: url('./images/hero.png');
@@ -54,6 +55,7 @@ h2{
   width: 80%;
   margin: 0 10%;
   justify-content: space-between;
+  gap: 20px;
 }
 .journey-card {
   width: width 30%;
