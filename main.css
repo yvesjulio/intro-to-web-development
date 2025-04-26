@@ -60,7 +60,7 @@ h2{
   background-color: white;
   padding: 25px;
   border-radius: 40px;
-  color: gray;
+}
   .journey-image {
     border-radius: 25px;
     margin-bottom: 25px;
@@ -72,7 +72,7 @@ h2{
     margin-bottom: 12px;
       }
     footer{
-      background: #3333232;
+      background: #333232;
       text-align: center;
       color: white;
       padding: 30px;
