@@ -16,12 +16,15 @@
   padding: 26px 60px;
   display: flex;
   justify-content: space-between;
+  
 }
 li {
   display: inline-block;
   list-style-type: none;
   margin: o 12px;
-  gap: 10px;
+  justify-content: space-between;
+  padding: 0 20px;
+  
 }
 .hero {
   background-image: url('./images/hero.png');
@@ -67,10 +70,10 @@ h2{
     border-radius: 25px;
     margin-bottom: 25px;
   }
-  .h3{
+  .h3,h6,h5{
     font-weight: 500;
     font-size: 20px;
-    color: black;
+    color: rgb(19, 18, 18);
     margin-bottom: 12px;
       }
     footer{
@@ -79,3 +82,14 @@ h2{
       color: white;
       padding: 30px;
     }
+ h6,h5 
+  {text-align: center;
+    ;
+    color: whitesmoke;
+
+  }
+  .aboutMe, .Goals{
+    background: #816b6b;
+    padding: 15px 10px;
+    text-align: center;
+  }
